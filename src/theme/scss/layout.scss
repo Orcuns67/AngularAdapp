@@ -115,7 +115,7 @@ main {
 
 .mdl-layout__header-row {
   color: $dropdown-menu-header-font-color;
-
+  
   .avatar-dropdown {
     cursor: pointer;
     margin: 0 10px;
@@ -156,6 +156,7 @@ main {
     width: $button-fab-font-size;
     min-width: 0;
     padding: 4px 4px;
+    display: none;
 
     &:hover {
       background: $layout-header-icon-hover-color;
