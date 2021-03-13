@@ -8,11 +8,7 @@
     "strict": true,
     "target": "es2017"
   },
-      // "isolatedModules": true,               /* Transpile each file as a separate module (similar to 'ts.transpileModule'). */
-
-      "skipLibCheck": true,
-      /* Strict Type-Checking Options */
-      "strict": true,
+  
   "compileOnSave": true,
   "include": [
     "src"
