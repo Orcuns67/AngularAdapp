@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "adapp-d8e19",
+    "default": "angular-adapp",
     "adapp": "angular-adapp"
   }
 }
